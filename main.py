@@ -9,7 +9,6 @@ HOW TO RUN:
 CONTROLS:
     Arrow Keys  → Move the white player square
     ESC         → Quit the game
-    aaaaa
 """
 
 import os
