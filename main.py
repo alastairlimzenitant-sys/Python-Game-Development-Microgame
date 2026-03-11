@@ -8,7 +8,7 @@ HOW TO RUN:
 
 CONTROLS:
     Arrow Keys  → Move the white player square
-    ESC         → Quit the game
+    ESC         → Quit the gametest
 """
 
 import os
